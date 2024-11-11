@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="left">
-<img align="left" width=100 height=120 src="[URL_ẢNH_ĐẠI_DIỆN_CỦA_BẠN]" alt="profile"/>
+<img align="left" width=100 height=120 src="https://i.pinimg.com/564x/ab/52/44/ab5244c1dd895a78a93fc0046eb1925c.jpg" alt="profile"/>
 </div>
 
 <div align="left">
