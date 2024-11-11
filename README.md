@@ -20,8 +20,8 @@
     <img src="https://skillicons.dev/icons?i=python" />
     </a>
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
+</p> -->
 
 
